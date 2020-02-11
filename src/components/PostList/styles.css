@@ -1,0 +1,7 @@
+.postList{
+  max-width: 700px;
+  /* border: 2px solid green; */
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+}

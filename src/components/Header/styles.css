@@ -1,0 +1,13 @@
+header.header{
+  background: #4A90E2;
+  padding: 20px 30px;
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
+  justify-content: space-between;
+}
+
+.header a{
+  text-decoration: none;
+  color: #fff;
+}
